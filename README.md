@@ -9,10 +9,10 @@ CubeMail - Glydars First SQLite Plugin.
  
  
  2)
- If you are using Glydar`s source to build your own Glydar.jar, 
+ If you are using Glydars source to build your own Glydar.jar, 
  add the following XML fragments into the pom.xml file. With those settings, 
- your Glydar Build will automatically download xerial`s SQLiteJDBC library into your local Maven repository, 
- since xerial`s sqlite-jdbc libraries are synchronized with the Maven's central repository.
+ your Glydar Build will automatically download xerials SQLiteJDBC library into your local Maven repository, 
+ since xerials sqlite-jdbc libraries are synchronized with the Maven's central repository.
  
 <dependencies>
     <dependency>
