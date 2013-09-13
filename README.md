@@ -15,13 +15,13 @@ CubeMail - Glydars First SQLite Plugin.
  since xerials sqlite-jdbc libraries are synchronized with the Maven's central repository.
  
  <pre><code>
-<dependencies>
+'<dependencies>
     <dependency>
       <groupId>org.xerial</groupId>
       <artifactId>sqlite-jdbc</artifactId>
       <version>3.7.2</version>
     </dependency>
-</dependencies>
+</dependencies>'
 </code></pre>
 
 
