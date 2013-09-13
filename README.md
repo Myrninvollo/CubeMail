@@ -14,6 +14,7 @@ CubeMail - Glydars First SQLite Plugin.
  your Glydar Build will automatically download xerials SQLiteJDBC library into your local Maven repository, 
  since xerials sqlite-jdbc libraries are synchronized with the Maven's central repository.
  
+ <code>
 <dependencies>
     <dependency>
       <groupId>org.xerial</groupId>
@@ -21,7 +22,7 @@ CubeMail - Glydars First SQLite Plugin.
       <version>3.7.2</version>
     </dependency>
 </dependencies>
- 
+ </code>
 3) if your using the Glydar.jar from glydar.org, you will need to down load from 
 https://bitbucket.org/xerial/sqlite-jdbc/downloads and add the folder org in to Glydar.jar.
 (it will not over write any Glydar Files).
